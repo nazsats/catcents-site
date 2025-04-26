@@ -84,7 +84,7 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.4 }}
         >
-          <Link href="https://portal.catcents.io">
+          <Link href="https://www.catcents.io">
             <motion.button
               className="relative px-12 py-5 text-xl font-semibold text-white rounded-xl bg-neon-purple hover:bg-neon-purple-dark border-2 border-neon-purple shadow-neon transition-colors duration-300 cursor-none neon-button"
               whileHover={{ scale: 1.05 }}
