@@ -4,10 +4,10 @@ import { motion } from "framer-motion";
 
 export default function Stats() {
   const stats = [
-    { value: "5,000+", label: "Wallets Connected" },
-    { value: "20,000+", label: "Games Played" },
-    { value: "10,000+", label: "Badges Claimed" },
-    { value: "50+", label: "DAO Proposals Voted" },
+    { value: "50,000+", label: "Wallets Connected" },
+    { value: "200,000+", label: "Games Played" },
+    { value: "100,000+", label: "Badges Claimed" },
+    { value: "10,000+", label: "DAO Proposals Voted" },
   ];
 
   return (
